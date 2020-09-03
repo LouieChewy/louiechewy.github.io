@@ -1,10 +1,6 @@
-<!DOCTYPE>
-<HTML>
-</HTML>
+
 <title> Foot Nugs</title>
-<Head>
-p {font-size:14px;
-</head>
+
 <body> 
 <h1>Foot Nugs</h1>
 <h5>Made by LouieChewy<h5>
@@ -18,6 +14,3 @@ p {font-size:14px;
 <h2>Sven</h2>
 <img src="https://vignette.wikia.nocookie.net/pewdiepie/images/e/ef/Sven-mc.png/revision/latest/top-crop/width/360/height/450?cb=20190922220753">
 
-
-</body>
-</html>
