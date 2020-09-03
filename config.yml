@@ -5,12 +5,6 @@ template:
   name: louiechewy.github.io
 before:
   - type: createIssue
-    title: Welcome!
+    title: Foot
     body: new-issue.md
-steps:
-  - title: First step
-    description: The first step in your course
-    event: issues.assigned
-    link: '{{ repoUrl }}'
-    actions:
-      - type: closeIssue
+steps: []
