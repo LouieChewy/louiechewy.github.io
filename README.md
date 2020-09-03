@@ -1,5 +1,5 @@
 
-<title> Foot Nugs</title>
+
 
 <body> 
 <h1>Foot Nugs</h1>
