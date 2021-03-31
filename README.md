@@ -2,15 +2,9 @@
 
 
 <body> 
-<h1>Foot Nugs</h1>
-<h5>Made by LouieChewy<h5>
-  <p>First we have a foot</p>
-<h2>Foot</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Human_male_foot.jpg/1280px-Human_male_foot.jpg">
-  <p>Then we have nugs</p>
-<h2>Nugs</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/McDonalds-Chicken-McNuggets.jpg/1920px-McDonalds-Chicken-McNuggets.jpg">
-  <p>Then we have a Sven</p>
-<h2>Sven</h2>
-<img src="https://vignette.wikia.nocookie.net/pewdiepie/images/e/ef/Sven-mc.png/revision/latest/top-crop/width/360/height/450?cb=20190922220753">
+<h1>Alien & Louie ASMR Show </h1>
 
+  <p>Come join us weekly on instagram for our LIVE AMSR Show (alc_clan). On fridays at 5 PM EST, can't wait to see you there! If you want to schedule private shows or have questions then DM us at LouieChewy._ or kefi_alien or at our streaming account alc_clan! </p>
+
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP._ADdASy2Oi7scwISFQco_wHaHa%26pid%3DApi&f=1">
+  
